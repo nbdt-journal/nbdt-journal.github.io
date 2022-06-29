@@ -3,7 +3,6 @@ title: About
 icon: fas fa-info-circle
 order: 4
 ---
-
 ## NBDT Journal 👋
 
 📝 [Neurons, Behavior, Data Analysis and Theory (NBDT)](https://nbdt.scholasticahq.com/about) publishes good computational neuroscience.
