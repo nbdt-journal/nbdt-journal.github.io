@@ -1,5 +1,5 @@
 ---
-title: Hola GSoC 2022!
+title: Data Parsing
 author: Mrunal
 date: 2022-06-23 
 categories: [GSoC Blogging, Part-1]
