@@ -85,7 +85,7 @@ theme_mode:   # [light|dark]
 #img_cdn: https://ik.imagekit.io/mvqplpc2f/nbdt-gsoc-profile-pic_zO1yrodLu.png?ik-sdk-version=javascript-1.4.3&updatedAt=1656544999771
 img_cdn: ''
 # the avatar on sidebar, support local or CORS resources
-avatar: https://cdn.jsdelivr.net/gh/cotes2020/chirpy-images/commons/avatar.jpg
+avatar: https://twitter.com/NBDT_journal/photo
 #https://cdn.jsdelivr.net/gh/cotes2020/chirpy-images/commons/avatar.jpg
 #https://twitter.com/NBDT_journal/photo
 
