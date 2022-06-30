@@ -23,3 +23,5 @@ needed in any case.
 
 **NBDT is a true community journal, open in every way.**
 Open science. Open data. And, we are openly asking for self-nominations for potential reviewers
+
+![Image](\Images\profile-pic\nbdt-gsoc-profile-pic.png)
