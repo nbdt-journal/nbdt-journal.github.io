@@ -40,7 +40,7 @@ twitter:
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: 
+  name: INCF-GSoC contributors
   email: example@doamin.com             # change to your email address
   links:
     # The first element serves as the copyright owner's link
@@ -80,7 +80,7 @@ theme_mode:   # [light|dark]
 # will be added to all image (site avatar & posts' images) paths starting with '/'
 #
 # e.g. 'https://cdn.com'
-img_cdn:
+img_cdn: https://ik.imagekit.io/mvqplpc2f/nbdt-gsoc-profile-pic_zO1yrodLu.png?ik-sdk-version=javascript-1.4.3&updatedAt=1656544999771
 
 # the avatar on sidebar, support local or CORS resources
 avatar: https://twitter.com/NBDT_journal/photo
